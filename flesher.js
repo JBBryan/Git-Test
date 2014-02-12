@@ -3,3 +3,5 @@
 //Also add another file to the repo
 
 var foo = "bar"
+
+var fu = "bah"
